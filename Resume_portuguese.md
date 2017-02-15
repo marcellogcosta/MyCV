@@ -3,7 +3,7 @@
 Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pesquisa é voltada para codificação e teoria da informação com aplicação no campo aeroespacial, em particular para a transmissão de imangens e mídia. Marcello possui mestrado em Telecomunicações pelo Departamento de Engenharia Eletrônica e Computação do Instituto Tecnológico de Aeronáutica (ITA) e possui graduação em Engenharia Elétrica pela Universidade do Estado do Amazonas (UEA). Antes de iniciar o doutorado, em 2014, Marcello trabalhou como engenheiro no processo de montagem SMD por 6 anos na Sony Brasil; ele implementou o sistema de inspeção óptica automática (AOI) nesta companhia, ele também trabalhou como pesquisador de desenvolvimento industrial no setor espacial e aeronáutico, no campo de testes acelerados de alta confiabiliadade para qualificação de componentes BGA e, em outro projeto, com a seleção de técnicas de compressão aplicadas em radares imageadoras embarcados.
 
 
-**Realizações Profissionais/Acadêmica:**
+###Realizações Profissionais/Acadêmica
 
 -  Participou da Escola de Códigos (SPCoding School) promovida pela IEEE Information Theory Society, realizada no IMEEC/Unicamp, onde observou as tendências na teoria de codificação para diversas aplicações -> 2015.
 
@@ -18,7 +18,7 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 - Introduziu o sistema de inspeção óptica automática (AOI) na Sony Brasil, contribuindo com a redução dos índices de defeitos internos de montagem SMD de 450 ppm para ~5 ppm (partes por milhão) -> 2005-2009;
 
      
-**Programação**
+###Programação
 
  - C++
  - Python
@@ -27,7 +27,7 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
  - Comsol Multiphisics
  - Latex
 
-**Idiomas**
+###Idiomas
  - Português - Fluente/Nativo
  - Inglês - avançado
 
@@ -72,38 +72,38 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
  
 ##Experience
 
-**Instituto Tecnologico de Aeronautica (dec/2013 to jul/2015)**
+**Instituto Tecnologico de Aeronautica** (dec/2013 to jul/2015)
 *Scholarship Researcher*
 
 - Research scholarship of FINEP - level DTI-A (technological and industrial development), studying data/image compression methods for SAR airborne based platforms (AeroSAR Project).
 
-**Sony Brazil Ltd (fev/2013 to nov/2013)**
+**Sony Brazil Ltd** (fev/2013 to nov/2013)
 *Engineer (SMT automatic Mounting)*
 
 - High reliability SMT inspection by 3D camera system - introduction of such a system and developing of operating procedures.
 
-**Instituto Nacional de Pesquisas Espaciais (sep/2011 to sep/2012)**
+**Instituto Nacional de Pesquisas Espaciais** (sep/2011 to sep/2012)
 *Scholarship Researcher*
 
 - Research scholarship of CNPQ - level DTI-B (Technological and industrial development) at National for Space Research Institute (INPE) working in a project for high-reliability tests in Satellite electronic systems.
 
-**Sony Brazil Ltd (nov/2005 to Aug/2010)**
+**Sony Brazil Ltd** (nov/2005 to Aug/2010)
 *Junior Engineer (SMT automatic Mounting)*
 
 - Monitoring and control of SMD automount process, New Models Introduction and Implementation and supervision of Automatic Optical Inspection System applied to mounting defects detection.
 
-**Clinica Renal de Manaus (hemodialysis unit) (Mar/2003 to jul/2003)**
+**Clinica Renal de Manaus (hemodialysis unit)** (Mar/2003 to jul/2003)
 *Trainee (Electrical Engineering)*
 
  - Control of Dialysis Machine's Maintenance (Predictive, Preventive, and corrective). Technical intervention registration and report and accompaniment of Reverse Osmose system automation.
 
-##Research Projetcs
+###Research Projetcs
 
 - AeroSAR - embbeded Radar processor for real-time operation;
 - creating and improved manufacturing process for space applications
 - Security and reliability of information: Theory and Applications
 
-##Publications
+###Publications
 
 1. Costa, M.G., Pinho, M.S. *An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL:[http://ieeexplore.ieee.org/document/7840454/](URL: http://ieeexplore.ieee.org/document/7840454/).
 
@@ -116,9 +116,9 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 5. Costa, M.G. *Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
 
 
-##Awards
+###Awards
 
-*Redução do índice de defeito interno - One digit PPM*. Prêmio Qualidade Amazonas. Oct/2009.
+- Redução do índice de defeito interno - One digit PPM. Prêmio Qualidade Amazonas. Oct/2009.
  
  
 
