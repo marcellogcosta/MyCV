@@ -1,18 +1,18 @@
 ## Marcello Costa
 
-Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazil). His research focuses on coding theory and its applications in aeronautics and space. Marcello has an MSc in Telecommunications from the Electrical and Computation Department of Instituto Teconologico de Aeronautica (ITA), and a Bachelor of Electrical Engineering from Universidade do Estado do Amazonas (UEA) in Brazil. Before undertaking doctoral studies in 2014, Marcello worked as a SMT Process Engineer for about six years at Sony Brazil; he has implemented the Automatic Optical Inspection Systems in that company, and he worked as industrial development researcher in space and aeronautics field working with high-reliability tests and inspection for SMT mounting qualification and researching compression techniques for Remote sensing based in radar Radar systems.
+Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazil). His research focuses on coding theory and its applications in aeronautics and space, in particular for image and media transmission. Marcello has an MSc in Telecommunications from the Electrical and Computation Department of Instituto Teconologico de Aeronautica (ITA), and a Bachelor of Electrical Engineering from Universidade do Estado do Amazonas (UEA) in Brazil. Before undertaking doctoral studies in 2014, Marcello worked as a SMT Process Engineer for about six years at Sony Brazil; he has implemented the Automatic Optical Inspection Systems in that company, he also worked as industrial development researcher in space and aeronautics field working with high-reliability tests and inspection for SMT mounting qualification and in another project researching compression techniques for Remote sensing based in radar Radar systems.
 
 ## Skills
 
-- I obtained relevant results in radar raw signal  compression using advanced processing signal measurements by compressive sensing in a experimental project -> 2014-2015;
+- I obtained relevant results in radar raw signal compression using advanced processing signal measurements by compressive sensing as an experimental project (AeroSAR) -> 2014-2015;
 
-- I developed all workflow and methodoly for 3D inspection system in my return to Sony -> 2013.
+- I developed all workflow and methodology for 3D inspection system in my return to Sony Brazil -> 2013.
 
-- I created the procedures for SMT mounting for accelerated tests to qualifying BGA componentes for space during my scholarship in INPE -> 2011-2012.
+- During my scholarship at INPE, I created procedures for SMT mounting applied to accelerated tests to qualifying BGA components for space -> 2011-2012.
 
 - In my master's degree I installed the Software-defined Radio Laboratory to implement and develop tests over wireless link -> 2010-2012. 
 
-- I contributed to the Automatic Inspection System introduction in my first job (Sony Brazil) contibuting for decreasing the mounting defects from 450 ppm to around 5 ppm (part per milion) -> 2005-2009;
+- I contributed to the Automatic Inspection System (AOI) introduction in my first job (Sony Brazil) contibuting for decreasing the mounting defects from 450 ppm to around 5 ppm (part per milion) -> 2005-2009;
 
 #### Programming Skills
 
@@ -69,15 +69,23 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 **Instituto Tecnologico de Aeronautica** (dec/2013 to jul/2015)    
 *Scholarship Researcher*  
+- Research scholarship of FINEP - level DTI-A (technological and industrial development), studying data/image compression methods for SAR airborne based platforms (AeroSAR Project).
+
 **Sony Brazil Ltd** (fev/2013 to nov/2013)   
 *Engineer (SMT automatic Mounting)*  
+- High reliability SMT inspection by 3D camera system - introduction of such a system and developing of operating procedures.
+
 **Instituto Nacional de Pesquisas Espaciais** (sep/2011 to sep/2012)   
 *Scholarship Researcher*  
+- Research scholarship of CNPQ - level DTI-B (Technological and industrial development) at National for Space Research Institute (INPE) working in a project for high-reliability tests in Satellite electronic systems.
+
 **Sony Brazil Ltd** (nov/2005 to Aug/2010)   
 *Junior Engineer (SMT automatic Mounting)*  
-**Clinica Renal de Manaus** (Mar/2003 to jul/2003)   
-*Trainee (Electrical Engineering)*
+- Monitoring and control of SMD automount process, New Models Introduction and Implementation and supervision of Automatic Optical Inspection System applied to mounting defects detection.
 
+**Clinica Renal de Manaus (hemodialysis unit)** (Mar/2003 to jul/2003)   
+*Trainee (Electrical Engineering)*
+- Control of Dialysis Machine's Maintenance (Predictive, Preventive, and corrective). Technical intervention registration and report and accompaniment of Reverse Osmose system automation.
 
 #### Research Projetcs
 - AeroSAR - embbeded Radar processor for real-time operation;
