@@ -70,31 +70,31 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
  - SPcoding School (IMEEC/Unicamp - 2015)
  
 ##Experiência Profissional
-**Instituto Tecnológico de Aeronáutica** (dec/2013 to jul/2015)
+**Instituto Tecnológico de Aeronáutica** (dez/2013 - jul/2015)
 
 *Pesquisador (bolsista)*
 
 - Research scholarship of FINEP - level DTI-A (technological and industrial development), studying data/image compression methods for SAR airborne based platforms (AeroSAR Project).
 
-**Sony Brazil Ltd** (fev/2013 to nov/2013)
+**Sony Brazil Ltd** (fev/2013 - nov/2013)
 
 *Engenheiro Pleno (Montagem Autmática SMT)*
 
 - High reliability SMT inspection by 3D camera system - introduction of such a system and developing of operating procedures.
 
-**Instituto Nacional de Pesquisas Espaciais** (sep/2011 to sep/2012)
+**Instituto Nacional de Pesquisas Espaciais** (set/2011 - set/2012)
 
 *Pesquisador(bolsista)*
 
 - Research scholarship of CNPQ - level DTI-B (Technological and industrial development) at National for Space Research Institute (INPE) working in a project for high-reliability tests in Satellite electronic systems.
 
-**Sony Brazil Ltd** (nov/2005 to Aug/2010)
+**Sony Brazil Ltd** (nov/2005 - Ago/2010)
 
 *Engenheiro Jr. (Montagem Autmática SMT)*
 
 - Monitoring and control of SMD automount process, New Models Introduction and Implementation and supervision of Automatic Optical Inspection System applied to mounting defects detection.
 
-**Clínica Renal de Manaus (hemodiálise)** (Mar/2003 to jul/2003)
+**Clínica Renal de Manaus (hemodiálise)** (Mar/2003 - jul/2003)
 
 *Trainee (Engenharia Elétrica)*
 
