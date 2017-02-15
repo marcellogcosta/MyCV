@@ -95,11 +95,16 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 #### Publications
 
-- Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects. SMT Magazine, 2010;
-- Multispectral Image Transmission Using a Software-Defined Radio Platform. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. 
-- Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012.
-- Curvelet-based Compressive Sensing for InSAR Raw Data. SPIE Remote Sensing Conference, Toulouse-France. 2015.
-- An UEP scheme for optimal rate allocation of CCSDS LDPC Codes.  descrição da publicação International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016.
+1. An UEP scheme for optimal rate allocation of CCSDS LDPC Codes.  descrição da publicação International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL: [http://ieeexplore.ieee.org/document/7840454/](http://ieeexplore.ieee.org/document/7840454/).
+
+2. Curvelet-based Compressive Sensing for InSAR Raw Data. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
+
+3. Multispectral Image Transmission Using a Software-Defined Radio Platform. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. [URL: http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
+
+4. Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. [URL: http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+
+5. Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects. SMT Magazine, 2010. [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
+
 
 
 #### Awards
