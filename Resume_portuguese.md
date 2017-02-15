@@ -63,13 +63,62 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 - Conclusion course research on urban mobile survey for power mapper.
 
 
-##Outros Cursos
+**Outros Cursos**
 
  - SCA - Introduction Course - Software-Defined Radio (Embraer - 2012)
  - Introduction to COMSOL Multiphysics (Unicamp - 2012)
  - Automatic Optical Inspection System (SONY Manufacturing Systems/Japan - 2007)
  - SPcoding School (IMEEC/Unicamp - 2015)
  
+##Experience
+
+**Instituto Tecnologico de Aeronautica (dec/2013 to jul/2015)**
+*Scholarship Researcher*
+
+- Research scholarship of FINEP - level DTI-A (technological and industrial development), studying data/image compression methods for SAR airborne based platforms (AeroSAR Project).
+
+**Sony Brazil Ltd (fev/2013 to nov/2013)**
+*Engineer (SMT automatic Mounting)*
+
+- High reliability SMT inspection by 3D camera system - introduction of such a system and developing of operating procedures.
+
+**Instituto Nacional de Pesquisas Espaciais (sep/2011 to sep/2012)**
+*Scholarship Researcher*
+
+- Research scholarship of CNPQ - level DTI-B (Technological and industrial development) at National for Space Research Institute (INPE) working in a project for high-reliability tests in Satellite electronic systems.
+
+**Sony Brazil Ltd (nov/2005 to Aug/2010)**
+*Junior Engineer (SMT automatic Mounting)*
+
+- Monitoring and control of SMD automount process, New Models Introduction and Implementation and supervision of Automatic Optical Inspection System applied to mounting defects detection.
+
+**Clinica Renal de Manaus (hemodialysis unit) (Mar/2003 to jul/2003)**
+*Trainee (Electrical Engineering)*
+
+ - Control of Dialysis Machine's Maintenance (Predictive, Preventive, and corrective). Technical intervention registration and report and accompaniment of Reverse Osmose system automation.
+
+##Research Projetcs
+
+- AeroSAR - embbeded Radar processor for real-time operation;
+- creating and improved manufacturing process for space applications
+- Security and reliability of information: Theory and Applications
+
+##Publications
+
+1. Costa, M.G., Pinho, M.S. *An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. [URL: http://ieeexplore.ieee.org/document/7840454/](URL: http://ieeexplore.ieee.org/document/7840454/).
+
+2. Costa, M.G., Fernades, D., Pinho, M.S. *Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. [URL: http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
+
+3. Costa, M.G., Pinho, M.S. *Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. [URL: http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
+
+4. Brito, A.C., Costa, M.G., Souza, M.L.O. *Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. [URL: http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+
+5. Costa, M.G. *Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
+
+
+##Awards
+
+*"Redução do índice de defeito interno - One digit PPM". Prêmio Qualidade Amazonas. Oct/2009.*
  
  
 
