@@ -47,7 +47,7 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 - Research in communication systems, Software-Defined Radio and image compression.
 - Installation of Software-Defined Radio Laboratory.
 
-**Pós-graduação (Lato sensu)- Universidade Federal do Amazonas** (mar/2008 - jul/2010)**
+**Pós-graduação (Lato sensu) - Universidade Federal do Amazonas** (mar/2008 - jul/2010)**
 
 *Sistemas de Vídeo e Tecnologias LCD-TFT e Plasma*
 
@@ -64,14 +64,12 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 
 
 **Outros Cursos**
-
  - SCA - Introduction Course - Software-Defined Radio (Embraer - 2012)
  - Introduction to COMSOL Multiphysics (Unicamp - 2012)
  - Automatic Optical Inspection System (SONY Manufacturing Systems/Japan - 2007)
  - SPcoding School (IMEEC/Unicamp - 2015)
  
-##Experience
-
+##Experiência Profissional
 **Instituto Tecnológico de Aeronáutica** (dec/2013 to jul/2015)
 
 *Pesquisador (bolsista)*
@@ -103,24 +101,24 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
  - Control of Dialysis Machine's Maintenance (Predictive, Preventive, and corrective). Technical intervention registration and report and accompaniment of Reverse Osmose system automation.
 
 ###Projetos de Pesquisa
-
-- AeroSAR - embbeded Radar processor for real-time operation;
-- creating and improved manufacturing process for space applications
-- Security and reliability of information: Theory and Applications
+- AeroSAR - Processador Radar Embarcado para operação em tempo-real.
+- Elaboração e Melhoria do Processo de Fabricação para Aplicações Espaciais.
+- Segurança e Confiabilidade da Informação: Teoria e Aplicações
 
 ###Publicações
-1. Costa, M.G., Pinho, M.S. *An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL:[http://ieeexplore.ieee.org/document/7840454/](URL: http://ieeexplore.ieee.org/document/7840454/).
+1. **Costa, M.G.**, Pinho, M.S. *An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL:[http://ieeexplore.ieee.org/document/7840454/](URL: http://ieeexplore.ieee.org/document/7840454/).
 
-2. Costa, M.G., Fernades, D., Pinho, M.S. *Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
+2. **Costa, M.G.**, Fernades, D., Pinho, M.S. *Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
 
-3. Costa, M.G., Pinho, M.S. *Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. URL: [http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
+3. **Costa, M.G.**, Pinho, M.S. *Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. URL: [http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
 
-4. Brito, A.C., Costa, M.G., Souza, M.L.O. *Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. URL: [http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+4. Brito, A.C., **Costa, M.G.**, Souza, M.L.O. *Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. URL: [http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
 
-5. Costa, M.G. *Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
+5. **Costa, M.G.** *Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
 
 
 ###Prêmios
+
 - Redução do índice de defeito interno - One digit PPM. Prêmio Qualidade Amazonas. Oct/2009.
  
  
