@@ -63,10 +63,13 @@ Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pe
 - Conclusion course research on urban mobile survey for power mapper.
 
 
-#Outros Cursos
+##Outros Cursos
 
  - SCA - Introduction Course - Software-Defined Radio (Embraer - 2012)
  - Introduction to COMSOL Multiphysics (Unicamp - 2012)
  - Automatic Optical Inspection System (SONY Manufacturing Systems/Japan - 2007)
  - SPcoding School (IMEEC/Unicamp - 2015)
+ 
+ 
+ 
 
