@@ -1,4 +1,4 @@
-** Marcello Costa **
+##Marcello Costa
 
 Marcello Costa é um estudante de doutorado suportado pelo CNPq. Sua área de pesquisa é voltada para a codificação e teoria da informação e suas aplicações no campo aeroespacial, em particularm para a transmissão de imangen e mídia. Marcello possui mestrado em Telecomunicações pelo departamento de engenharia eletrônica e computação do Instituto Tecnológico de Aeronáutica (ITA) e possui graduação em Engenharia Elétrica pela Universidade do Estado do Amazonas (UEA). Antes de iniciar o doutorado, em 2014, Marcello trabalhou como engenheiro no processo de montagem SMD por 6 anos na Sony Brasil; ele implementou o sistema automático de inspeção óptica (AOI) nesta companhia, ele também trabalhou como pesquisador de desenvolvimento industrial no setor espacial e aeronáutico, no campo de testes acelerados de alta confiabiliadade para qualificação de componentes BGA e, em outro projeto, com a seleção de técnicas de compressão aplicadas a radares imageadoras embarcados.
 
