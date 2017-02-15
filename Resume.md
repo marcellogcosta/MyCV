@@ -2,7 +2,7 @@
 
 Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazil). His research focuses on coding theory and its applications in aeronautics and space, in particular for image and media transmission. Marcello has an MSc in Telecommunications from the Electrical and Computer Engineering Department of Instituto Teconologico de Aeronautica (ITA), and a Bachelor of Electrical Engineering from Universidade do Estado do Amazonas (UEA) in Brazil. Before undertaking doctoral studies in 2014, Marcello worked as a SMT Process Engineer for about six years at Sony Brazil; he has implemented the Automatic Optical Inspection Systems in that company, he also worked as industrial development researcher in space and aeronautics field working with high-reliability tests and inspection for SMT mounting qualification and in another project researching compression techniques for Remote sensing based in radar Radar systems.
 
-## Skills
+## Professional Achievements
 
 - I attended the Coding school course from IEEE Information Theory Society held at the IMEEC/Unicamp, knowing the coding trends for many applications. -> 2015.
 
@@ -101,11 +101,11 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 2. **Costa, M.G., Fernades, D., Pinho, M.S.***Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
 
-3. **Costa, M.G., Pinho, M.S.***Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. [URL: http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
+3. **Costa, M.G., Pinho, M.S.***Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. URL: [http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
 
-4. **Brito, A.C., Costa, M.G., Souza, M.L.O.***Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. [URL: http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+4. **Brito, A.C., Costa, M.G., Souza, M.L.O.***Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. URL: [http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
 
-5. **Costa, M.G.***Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
+5. **Costa, M.G.***Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
 
 
 
