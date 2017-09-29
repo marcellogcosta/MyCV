@@ -14,7 +14,9 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 - In my master's degree I installed the Software-defined Radio Laboratory to implement and develop tests over wireless link -> 2010-2012. 
 
-- I contributed to the Automatic Inspection System (AOI) introduction in my first job (Sony Brazil) contibuting for decreasing the mounting defects from 450 ppm to around 5 ppm (part per milion) -> 2005-2009;
+- I contributed to the Automatic Inspection System (AOI) introduction in my first job (Sony Brazil) contibuting for decreasing the mounting defects -> 2005-2009;
+
+<span id='badgeCont272963' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont272963&mashlet=badge&showTitle=false&className=a&rid=Q-1467-2017'></script></span>
 
 #### Programming Skills
 
