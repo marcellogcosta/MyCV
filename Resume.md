@@ -1,6 +1,6 @@
 ## Marcello Costa
 
-Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazil). His research focuses on coding theory and its applications in aeronautics and space, in particular for image and media transmission. Marcello has an MSc in Telecommunications from the Electrical and Computer Engineering Department of Instituto Teconologico de Aeronautica (ITA), and a Bachelor of Electrical Engineering from Universidade do Estado do Amazonas (UEA) in Brazil. Before undertaking doctoral studies in 2014, Marcello worked as a SMT Process Engineer for about six years at Sony Brazil; he has implemented the Automatic Optical Inspection Systems in that company, he also worked as industrial development researcher in space and aeronautics field working with high-reliability tests and inspection for SMT mounting qualification and in another project researching compression techniques for Remote sensing based in radar Radar systems.
+Marcello Costa has M.S. and Ph.D. degrees in Communications at Electronic and Computer Engineering Department on Aeronautics Institute of Technology (ITA), Brazil, in 2013 and 2018, respectively. His research focuses on coding theory in aeronautics and space applications, in particular for image and media transmission. He has a B. S. degree in Electrical Engineering from University of the State of Amazonas (UEA), 2004. He was with Sony Brazil working in Automatic Optical Inspection system, and he worked as researcher in space and aeronautics area with electronic satellite systems and signal processing for radar systems. His current research interests include derivations for joint source-channel coding on multiresolution sources and digital communicions algorithms development.
 
 ## Professional Achievements
 
@@ -8,7 +8,7 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 - I obtained relevant results in radar raw signal compression using advanced processing signal measurements by compressive sensing as an experimental project (AeroSAR) -> 2014-2015;
 
-- I developed all workflow and methodology for 3D inspection system in my return to Sony Brazil -> 2013.
+- I developed all workflow and methodology for 3D inspection system for Sony Brazil -> 2013.
 
 - During my scholarship at INPE, I created procedures for SMT mounting applied to accelerated tests to qualifying BGA components for space -> 2011-2012.
 
@@ -35,10 +35,10 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 ## Education
 
-#### Doctorate - Instituto Tecnologico de Aeronautica (Aug/2014 to Dez/2017)
+#### Doctorate - Instituto Tecnologico de Aeronautica (Aug/2014 to sep/2018)
 *Telecommunications (Electrical and Computer Engineering)*
 
-- Developing an unequal error protection scheme in Spinal rateless codes for joint source-channel coding in optimal rate allocation mode (Image/media communication).
+- Developing an unequal error protection empirical model using rateless codes for optimal joint source and channel coding (Image/media communication).
 
 
 #### Master Degree - Instituto Tecnologico de Aeronautica (Aug/2010 to Jul/2013)
@@ -99,15 +99,20 @@ Marcello Costa is a PhD candidate and  Graduate Scholar supported by CNPq (Brazi
 
 #### Publications
 
-1. **Costa, M.G., Pinho, M.S.***An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL: [http://ieeexplore.ieee.org/document/7840454/](http://ieeexplore.ieee.org/document/7840454/).
 
-2. **Costa, M.G., Fernades, D., Pinho, M.S.***Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
 
-3. **Costa, M.G., Pinho, M.S.***Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. URL: [http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
 
-4. **Brito, A.C., Costa, M.G., Souza, M.L.O.***Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. URL: [http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+1. **Costa, M.G., Pinho, M.S.***An Algorithm for Optimal Unequal Error Protection Rate Allocation Exploring Granular Channel Rates*. IEEE Communications Letters. V. 22, n. 5, p. 926-929. 2018. URL: [https://ieeexplore.ieee.org/document/8283532/](https://ieeexplore.ieee.org/document/8283532/).
 
-5. **Costa, M.G.***Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
+2. **Costa, M.G., Pinho, M.S.***An UEP scheme for optimal rate allocation of CCSDS LDPC Codes*. International Symposium on Information Theory and its Applications (ISITA2016). Monterey, USA. 2016. URL: [http://ieeexplore.ieee.org/document/7840454/](http://ieeexplore.ieee.org/document/7840454/).
+
+3. **Costa, M.G., Fernades, D., Pinho, M.S.***Curvelet-based Compressive Sensing for InSAR Raw Data*. SPIE Remote Sensing Conference, Toulouse-France. 2015. URL: [http://dx.doi.org/10.1117/12.2194940](http://dx.doi.org/10.1117/12.2194940).
+
+4. **Costa, M.G., Pinho, M.S.***Multispectral Image Transmission Using a Software-Defined Radio Platform*. V International Workshop on Telecommunications, Santa Rita do Sapucaí-MG. 2013. URL: [http://www.inatel.br/iwt2013](http://www.inatel.br/iwt2013/index.php/accepted-papers-sp-7407291).
+
+5. **Brito, A.C., Costa, M.G., Souza, M.L.O.***Predição de Vida em Fadiga de Juntas de Solda com Projeto de Experimentos*. 3º Workshop em Engenharia e tecnologia Espaciais, São José dos Campos-SP. 2012. URL: [http://www.inpe.br/iiiwete/](http://www.inpe.br/iiiwete/arquivos/programacao_completa_3wete.pdf)
+
+6. **Costa, M.G.***Digital Pseudo-Color Inspection Reveals Hidden Soldering Defects*. SMT Magazine, 2010. URL: [http://www.milaero007.com](http://www.milaero007.com/index.php/article/43219/digital-pseudo-color-inspection-reveals-hidden-soldering-defects/43222/?skin=smt).
 
 
 
